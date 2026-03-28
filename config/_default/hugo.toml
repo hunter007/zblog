@@ -99,7 +99,7 @@ hasCJKLanguage = true
 [module]
   [[module.imports]]
     path = 'github.com/davidhampgonsalves/hugo-black-and-light-theme'
-  [[module.imports]]
-    path = 'github.com/CyrusYip/hugo-theme-yue'
-  [[module.imports]]
-    path = 'github.com/ldeso/hugo-flex'
+#  [[module.imports]]
+#    path = 'github.com/CyrusYip/hugo-theme-yue'
+#  [[module.imports]]
+#    path = 'github.com/ldeso/hugo-flex'
