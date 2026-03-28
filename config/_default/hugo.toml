@@ -33,6 +33,7 @@ hasCJKLanguage = true
 [params]
   sitename = "Black & Light"
   disableWebFonts = false
+  #noClasses: 'false'
   [author]
     name = "hunter007"
     email = "wentao79@gmail.com"
@@ -73,6 +74,7 @@ hasCJKLanguage = true
 
 [markup]
   [markup.hightlight]
+    #noClasses = 'false'
     linenos = 'inline'
     style = 'monokai'
   [markup.goldmark]
@@ -89,3 +91,7 @@ hasCJKLanguage = true
   [privacy.googleAnalytics]
     disable = false
     respectDoNotTrack = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
