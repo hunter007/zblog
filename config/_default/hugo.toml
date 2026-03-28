@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 locale = 'zh_Hans'
 title = 'My New Hugo Project'
-theme =  ['hugo-flex', 'hugo-theme-yue']
+theme =  ['hugo-flex', 'hugo-theme-yue', 'black-and-light']
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
